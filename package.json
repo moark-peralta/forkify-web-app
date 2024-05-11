@@ -19,5 +19,5 @@
     "img": "^3.0.3",
     "regenerator-runtime": "^0.13.11"
   },
-  "main": "index.js"
+  "main": "index.html"
 }
